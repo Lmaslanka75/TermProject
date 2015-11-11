@@ -1,0 +1,8 @@
+C:\Users\Lauren Maslanka\Desktop\3342\UtiliesLibrary\bin\Debug\UtiliesLibrary.dll
+C:\Users\Lauren Maslanka\Desktop\3342\UtiliesLibrary\bin\Debug\UtiliesLibrary.pdb
+C:\Users\Lauren Maslanka\Desktop\3342\UtiliesLibrary\obj\Debug\UtiliesLibrary.dll
+C:\Users\Lauren Maslanka\Desktop\3342\UtiliesLibrary\obj\Debug\UtiliesLibrary.pdb
+C:\Users\Lauren Maslanka\Desktop\TermProject\UtiliesLibrary\bin\Debug\UtiliesLibrary.dll
+C:\Users\Lauren Maslanka\Desktop\TermProject\UtiliesLibrary\bin\Debug\UtiliesLibrary.pdb
+C:\Users\Lauren Maslanka\Desktop\TermProject\UtiliesLibrary\obj\Debug\UtiliesLibrary.dll
+C:\Users\Lauren Maslanka\Desktop\TermProject\UtiliesLibrary\obj\Debug\UtiliesLibrary.pdb

@@ -1,0 +1,4 @@
+C:\Users\Lauren Maslanka\Desktop\3342\UtiliesLibrary\bin\Release\UtiliesLibrary.dll
+C:\Users\Lauren Maslanka\Desktop\3342\UtiliesLibrary\bin\Release\UtiliesLibrary.pdb
+C:\Users\Lauren Maslanka\Desktop\3342\UtiliesLibrary\obj\Release\UtiliesLibrary.dll
+C:\Users\Lauren Maslanka\Desktop\3342\UtiliesLibrary\obj\Release\UtiliesLibrary.pdb
