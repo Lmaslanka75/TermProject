@@ -11,3 +11,7 @@ C:\Users\Lauren Maslanka\Desktop\TP\UtiliesLibrary\bin\Debug\UtiliesLibrary.pdb
 C:\Users\Lauren Maslanka\Desktop\TP\UtiliesLibrary\obj\Debug\UtiliesLibrary.csprojResolveAssemblyReference.cache
 C:\Users\Lauren Maslanka\Desktop\TP\UtiliesLibrary\obj\Debug\UtiliesLibrary.dll
 C:\Users\Lauren Maslanka\Desktop\TP\UtiliesLibrary\obj\Debug\UtiliesLibrary.pdb
+C:\Users\tuc52228\Desktop\TP\UtiliesLibrary\bin\Debug\UtiliesLibrary.dll
+C:\Users\tuc52228\Desktop\TP\UtiliesLibrary\bin\Debug\UtiliesLibrary.pdb
+C:\Users\tuc52228\Desktop\TP\UtiliesLibrary\obj\Debug\UtiliesLibrary.dll
+C:\Users\tuc52228\Desktop\TP\UtiliesLibrary\obj\Debug\UtiliesLibrary.pdb
